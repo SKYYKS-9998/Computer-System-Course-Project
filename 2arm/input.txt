@@ -1,0 +1,7 @@
+BUPT is one of the first 'project 211' universities.
+0 1 3 6 10 15
+3 u 685
+40 2/60 3/80 4
+NJOC@H
+6 5 1 3 4 2
+50
